@@ -1,0 +1,12 @@
+# Ignore data folder
+/data/
+
+# Ignore virtual environment
+.venv/
+
+# Python cache
+__pycache__/
+
+# System files
+.DS_Store
+*.log
